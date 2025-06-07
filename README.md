@@ -18,5 +18,13 @@ This is a simple Contact Book application built using Python and Tkinter. It all
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sagarika-v/contact-book-gui.git
-   cd contact-book-gui
+   git clone https://github.com/sagarika-v/contactbook-gui.git
+   cd contactbook-gui
+2.**Run the Application
+   contactbook.py
+##📸 Screenshot
+![image](https://github.com/user-attachments/assets/9b6ba0e9-db0c-48c9-880c-e5416c08f13c)
+
+
+![image](https://github.com/user-attachments/assets/0bd1b57c-052e-48aa-b52a-08f62519ce19)
+
