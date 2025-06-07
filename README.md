@@ -24,7 +24,7 @@ This is a simple Contact Book application built using Python and Tkinter. It all
    contactbook.py
 
 
-#📸 Screenshot
+#📸 Screenshots
 
 ![image](https://github.com/user-attachments/assets/9b6ba0e9-db0c-48c9-880c-e5416c08f13c)
 
